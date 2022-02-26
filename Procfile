@@ -1,1 +1,1 @@
-web: python attacker.py
+web: python attack.py
